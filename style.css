@@ -1,0 +1,133 @@
+body { color: #000055; 
+background-color: #330000; padding: ; 
+margin-left: ;
+margin-right: ;
+}
+
+#page { border-width: 1px; 
+border-color: #507070; border-style: solid;
+background-image:
+url('background1.gif');
+width: 750px;
+position: relative;
+;
+}
+
+#headshot { padding: 2px; background-color: #000027;
+
+margin: 6px 6px 0px 6px; 
+}
+
+
+hr { color: gray; 
+background-color: #;
+text-indent: 20px; 
+}
+
+a {color: #713419;
+background-color: ;
+}
+
+#navigation {  
+;
+	display: block;
+	height: 33px;
+	padding: 10px 10px 0px 0px;
+	list-style-type: none;
+border-top: px solid #;
+border-bottom: 2px solid #713419;
+	background: ;
+margin: 0px 170px 0px 35px;
+}
+
+#navigation li { display: inline; 
+}
+
+#navigation li a {
+	display: ;
+	float: ;
+	height: px;
+	margin: 0;
+	background: no-repeat 0px 0px;
+	padding: 0px 0px 0px 14px;
+	border-right: none;
+	color: #713419;
+	font-size: 16px;
+	line-height: 2px;
+	text-align: ;
+	text-decoration: none;
+	font-weight: normal;
+	cursor: ;
+}
+
+#navigation li a:hover {
+	background-color: ;
+	color: #483D8B;
+height: 15px;
+	text-decoration: underline;
+}
+
+#navigation li a.active, #navigation li a.active:hover {
+	height: px;
+color: #000055;
+	background-repeat: repeat;
+background-image:
+url('');
+	cursor: ;
+font-weight: bold;
+padding-right: px;
+}
+
+#navigation li a.active:before { ;
+ }
+
+#marquee {
+position: absolute;
+z-index: 700;
+clear: right;
+margin: 0px 45px 20px 7px;
+padding: 0px 0px 0px 0px;
+}
+
+#marquee h1 {
+margin: 0px 0px 0px 0px
+;
+}
+#main {
+vertical-align: top;
+margin: 50px 20px 0px 20px;
+}
+
+#listings {clear: left;
+margin: 55px 0px 0px 150px
+}
+
+#welcome{ margin: 50px 0px 0px 0px;
+}
+
+
+#news {float: right;
+clear: left;
+width: 255px;
+margin: 17px 12px 20px 25px;
+border: 1px dotted #3A545A;
+padding: 0px 13px 0px 15px;
+background-color: #001129;
+color: #888
+}
+
+#news h3 { text-decoration: underline;
+color: #713;
+}
+
+#news ul {list-style: none;
+padding: 0px 0px 0px 0px;
+color: ;
+text-decoration: none;
+}
+
+#Hin {text-align: center;
+}
+
+#footer {text-align: center;
+}
